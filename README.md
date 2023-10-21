@@ -3,8 +3,11 @@
 In the below data table, tests are being conducted in 4 fields. Each field corresponds to a row and each test value corresponds to column of data. 
 
 Field 1	5	1	21	-1	-1	-1
+
 Field 2	-1	-1	-1	-1	-1	-1
+
 Field 3	23	5	20	5	30	-1
+
 Field 4	1	9	5	0	-1	-1
 
 Note:  -1 shows that field is empty.
